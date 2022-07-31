@@ -404,7 +404,7 @@ void Lobby::on_about_clicked()
          "Remy, Hibiki, court-records.net (sprites); Qubrick (webAO); "
          "Rue (website); Draxirch (UI design); "
          "Lewdton and Argoneus (tsuserver); "
-         "Fiercy, Noevain, Cronnicossy, dyviacat(updated credits), and FanatSors (AO1); "
+         "Fiercy, Noevain, Cronnicossy, dyviacat(2022 updated credits) and FanatSors (AO1); "
          "server hosts, game masters, case makers, content creators, "
          "and the whole AO2 community!"
          "<p>The Attorney Online networked visual novel project "
